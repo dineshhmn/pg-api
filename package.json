@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyokin/pg-api.git"
+    "url": "git+https://github.com/dineshhmn/pg-api.git"
   },
   "keywords": [
     "postgres",
