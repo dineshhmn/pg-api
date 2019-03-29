@@ -1,0 +1,40 @@
+Feature Category	Feature	Data Source	Comments
+Location Features	Neighboorhood		
+Location Features	schools		
+Location Features	employment rate		
+Location Features	crime		
+Location Features	transportation		
+Location Features	flood area		
+Location Features	food + shopping + groceries		
+Location Features	residential zone + tech zone + commercial zone		
+Location Features	proximity to the zones		
+Location Features	factories closeby		
+Location Features	healthcare		
+			
+Home Data	Type of land - stream or lake or hill		
+Home Data	Gas / Utilities		
+Home Data	Age of the home		
+Home Data	Basement		
+Home Data	Parking		
+Home Data	Rooms / built area		
+Home Data	view - river/lake view		
+Home Data	sq ft		
+Home Data	privacy		
+Home Data	roof age		
+Home Data	type of home		
+Home Data	appliances		
+Home Data	fire place		
+Home Data	flooring		
+Home Data	windows		
+			
+County Features	Tax		
+County Features	Upgrades		
+County Features	Leaks / Issues		
+County Features	Structural issues		
+			
+Market Conditions	Market Conditions		
+Market Conditions	"Interest Rate, bank Rate, economy"		
+			
+			
+	Knowledge needed		
+	Find how land value is calculated - appraiser or the county?		
